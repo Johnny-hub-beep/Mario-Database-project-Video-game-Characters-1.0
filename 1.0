@@ -1,0 +1,20 @@
+# Mario Database Project
+
+This project demonstrates basic SQL operations using PostgreSQL.
+
+## Features
+- FULL JOIN between characters and sounds
+- DELETE operations with conditions
+- Data validation using SELECT queries
+
+## Technologies
+- PostgreSQL
+- SQL
+
+## What I Learned
+- How JOINs work in relational databases
+- Difference between character_id and sound_id
+- Safe deletion practices using WHERE conditions
+
+## Author
+Johnny
